@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubham Gupta
 - 👀 I’m interested in ... Everything 
 - 🌱 I’m currently learning ... Coding 
-- 💞️ I’m looking to collaborate on ... In Developing 
+- 💞️ I’m looking to collaborate on ... Anything 
 - 📫 How to reach me ... Just Text Me
 
 <!---
